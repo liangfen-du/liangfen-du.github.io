@@ -1,1 +1,66 @@
-Hello Liangfen
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <title>Personal Blog</title>
+</head>
+
+<body>
+    <nav class="container-fluid">
+        <ul>
+            <li><strong>My Personal Blog</strong></li>
+        </ul>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#" role="button">Contact</a></li>
+        </ul>
+    </nav>
+    <main class="container">
+        <div class="grid">
+            <section>
+                <hgroup>
+                    <h2>Welcome to My Blog</h2>
+                    <h3>Discover, Share, and Enjoy</h3>
+                </hgroup>
+                <p>Welcome to my personal blog where I share my thoughts, stories, and experiences. Here you'll find a
+                    variety of topics ranging from daily life to special adventures.</p>
+                <figure>
+                    <img src="https://files.oaiusercontent.com/file-zmsDUky68Rn6ZZWhXvGaSTLs?se=2024-04-07T13%3A53%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da14bf848-cd01-4df1-9dc1-a5d8f920b719.webp&sig=/uCO4hw%2BSiteEJmXlrx0Nf2%2B0FJEUYjWFm2k6pBn9zQ%3D"
+                        alt="Cartoon Dog" />
+                    <figcaption>A cheerful cartoon dog to brighten your day!</figcaption>
+                </figure>
+                <h3>About Me</h3>
+                <p>I'm a passionate blogger who loves to write about life's little adventures. Join me on this journey!
+                </p>
+                <h3>Recent Posts</h3>
+                <p>Stay tuned for my latest posts and updates!</p>
+            </section>
+        </div>
+    </main>
+    <section aria-label="Subscribe example">
+        <div class="container">
+            <article>
+                <hgroup>
+                    <h2>Stay Connected</h2>
+                    <h3>Subscribe to My Newsletter</h3>
+                </hgroup>
+                <form class="grid">
+                    <input type="text" id="firstname" name="firstname" placeholder="Your Name" aria-label="Your Name"
+                        required />
+                    <input type="email" id="email" name="email" placeholder="Your Email" aria-label="Your Email"
+                        required />
+                    <button type="submit" onclick="event.preventDefault()">Subscribe</button>
+                </form>
+            </article>
+        </div>
+    </section>
+    <footer class="container">
+        <small><a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a></small>
+    </footer>
+</body>
+
+</html>
