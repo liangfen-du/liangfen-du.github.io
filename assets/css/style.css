@@ -64,6 +64,10 @@
   color: #e0e5e8;
 }
 
+.researchgate {
+  color: #d9eba1;
+}
+
 .hkpub {
   color: #0077b5;
 }
@@ -86,7 +90,11 @@
 }
 
 .google-scholar:hover {
-  color: #e0e5e8;
+  background-color: #e0e5e8;
+}
+
+.researchgate:hover {
+  background-color: #d9eba1;
 }
 
 .angellist:hover {
