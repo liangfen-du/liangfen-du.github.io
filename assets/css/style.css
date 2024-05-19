@@ -52,14 +52,16 @@
   vertical-align: middle;
 }
 
-
-
 .github {
   color: black;
 }
 
 .linkedin {
   color: #0077b5;
+}
+
+.google-scholar {
+  color: #e0e5e8;
 }
 
 .hkpub {
@@ -79,8 +81,12 @@
   background-color: #0077b5;
 }
 
-.hkpub:hover {
+.hkpu:hover {
   background-color: #0077b5;
+}
+
+.google-scholar:hover {
+  color: #e0e5e8;
 }
 
 .angellist:hover {
