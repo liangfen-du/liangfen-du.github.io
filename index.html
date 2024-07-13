@@ -77,13 +77,13 @@
     <nav class="hide-on-small-only">
         <ul class="side-nav fixed section table-of-contents">
 
-            <li class="logo">
+            <!-- <li class="logo">
                 <a id="logo-container" aria-label="Navigate to the beginning of the page" href="#intro"
                     class="brand-logo grey-blue-text">
                     <img src="/assets/img/liangfen-photo-square.jpg" class="circle img-responsive profile-pic"
                         alt="avatar">
                 </a>
-            </li>
+            </li> -->
 
             <li class="bold">
                 <a aria-label="Navigate to the About section" href="#about" class="waves-effect waves-dark teal-text"><i
@@ -205,18 +205,26 @@
     <!-- Main Content-->
     <main>
         <!-- First Section: Introduction -->
-        <section id="new_intro" class="section scrollspy" style="text-align: justify;">
-            <div class="container flow-text">
-                <img src="/assets/img/liangfen-photo.jpg" class="rectangle img" alt="avatar" style="width: 150px;">
-                <h5 style="color:#1a1818">Hi, I am Liangfen Du (Chinese: 杜良芬).</h5>
+        <section id="new_intro" class="section scrollspy">
+            <div class="container flow-text" style="display: flex; align-items: flex-start;">
+                <div style="float: left; margin-right: 20px;">
+                    <img src="/assets/img/liangfen-photo.jpg" class="rectangle img" alt="avatar" 
+                        style="width: 150px; margin-top: 20px; margin-bottom: 20px;">
+                </div>
                 
-                    I joined the Hong Kong Polytechnic University as an Assistant Professor in April 2024.
-                    And my research interests include:
-               
-                    <li>Noise reduction technologies enabling natural ventilation</li>
-                    <li>Acoustic metasurfaces</li>
-                    <li>Sound prediction</li>
-                    <li>Environmental noise control</li>
+                <div style="overflow: hidden; margin-top: 20px">
+                    <h5 style="color:#1a1818">Hi, I am Liangfen Du (Chinese: 杜良芬).</h5>
+                </div>
+            </div>
+            <div class="container flow-text">
+   
+                I joined the Hong Kong Polytechnic University as an Assistant Professor in April 2024.
+                And my research interests include:
+            
+                <li>Noise reduction technologies enabling natural ventilation</li>
+                <li>Acoustic metasurfaces</li>
+                <li>Sound prediction</li>
+                <li>Environmental noise control</li>
             
 
                 <h4 style="color: rgb(179, 5, 5);">News</h4>
@@ -234,15 +242,17 @@
                         Acoustical Measurement, and other related fields.</p>
                 </ul>
                 
+                
                 <div class='buttons'>
                     <a href="#contact" class="contactme2">Contact Me</a>
                 </div>
+            
 
             </div>
         </section>
 
         <!-- Second Section: About -->
-        <section id="about" class="section scrollspy" style="text-align: justify;">
+        <section id="about" class="section scrollspy">
             <h3 class="page-title white-text teal">About</h3>
             <div class="container flow-text">
                 <!-- <blockquote>
@@ -251,7 +261,7 @@
           </h2>
           
         </blockquote> -->
-                <p>
+                <p style="text-align: justify;">
                     Dr Liangfen DU joined the Department of Building Environment and Energy Engineering (BEEE) as an
                     Assistant
                     Professor in April 2024. She obtained her BEng in Environmental Engineering and MSc in Acoustics
@@ -273,7 +283,7 @@
                 </p>
                 
                 <div class="social">
-                    Follow me on social media:
+                    Social media:
                     <a href="https://www.linkedin.com/in/liangfen-du-a8770257/" target="_blank">
                         <button class="icon-btn linkedin">
                             <i class="fa fa-linkedin"></i>
@@ -418,35 +428,59 @@
                 </ul>
             </div>
 
-
             <!-- Fourth Section: Projects -->
             <section id="projects" class="section scrollspy">
                 <h3 class="page-title white-text teal">Projects</h3>
                 <div class="container">
-                    <div class="card">
-                        <div class="card-content">
-                            <h4 class="brown-text light">Research</h4>
-                            <div class="row text-left">
-                                <li>Main investigator: Meta-surface based broadband ultrasonic deep-subwavelength
-                                    imaging (MOE AcRF Tier 2, SGD $832,128)</li>
-                                <li>Main investigator: Enhancing aural comfort in Singapore Homes through NUS-CDL Smart
-                                    Green Home Test-Bedding Studies (NUS – CDL joint grant, SGD $298,000)</li>
+                    <div class="row">
+                    <!-- Research -->
+                    <div class="col s12 m6 l6">
+                        <div class="card">
+                            <div class="card-content">
+                                <p>
+                                    <span class="card-title"><a target="_blank"
+                                            class="teal-text hoverline">Research</a></span>
+                                </p>
+                                <ul>
+                                    <p>
+
+                                    <ul>
+                                        <li>Main investigator: Meta-surface based broadband ultrasonic deep-subwavelength
+                                            imaging (MOE AcRF Tier 2, SGD $832,128)</li>
+                                        <li>Main investigator: Enhancing aural comfort in Singapore Homes through NUS-CDL Smart
+                                            Green Home Test-Bedding Studies (NUS – CDL joint grant, SGD $298,000)</li>
+                                    </ul>
+                                    </p>
+                                </ul>
+                                
                             </div>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="card-content">
-                            <h4 class="brown-text light">Consultancy</h4>
-                            <div class="row text-left">
-                                <li>Baseline acoustical assessment for Systems on Silicon Manufacturing Company Pte Ltd
-                                    (SSMC)</li>
-                                <li>Noise prediction on building facades for Forest Woods Condominium</li>
-                                <li>Classroom renovation for better speech intelligibility for Hwa Chong Institution
-                                </li>
-                                <li>Acoustical design of offices for Merck</li>
+                    
+                    <!-- Consultancy -->
+                    <div class="col s12 m6 l6">
+                        <div class="card">
+                            <div class="card-content">
+                                <p>
+                                    <span class="card-title"><a target="_blank"
+                                            class="teal-text hoverline">Consultancy</a></span>
+                                </p>
+                                <ul>
+                                    <p>
+                                    <ul>
+                                        <li>Baseline acoustical assessment for Systems on Silicon Manufacturing Company Pte Ltd
+                                            (SSMC)</li>
+                                        <li>Noise prediction on building facades for Forest Woods Condominium</li>
+                                        <li>Classroom renovation for better speech intelligibility for Hwa Chong Institution
+                                        </li>
+                                        <li>Acoustical design of offices for Merck</li>
+                                    </ul>
+                                    </p>
+                                </ul>
                             </div>
                         </div>
                     </div>
+                </div>
                 </div>
                 </div>
             </section>
@@ -455,6 +489,8 @@
             <section id="service" class="section scrollspy">
                 <h3 class="page-title white-text teal">Academic Service</h3>
                 <div class="container">
+                    <div class="row">
+                
                     <!-- Editor -->
                     <!-- <div class="card">
             <div class="card-content">
@@ -474,30 +510,51 @@
           </div> -->
 
                     <!-- Reviewer -->
-                    <div class="card">
-                        <div class="card-content">
-                            <h4 class="brown-text light">Reviewer</h4>
-                            <div class="row text-left">
-                                <li>The Journal of the Acoustical Society of America (<a
-                                        href="https://pubs.aip.org/asa/jasa" target="_blank">link</a>)</li>
-                                <li>Applied Acoustics (<a href='https://www.sciencedirect.com/journal/applied-acoustics'
-                                        target="_blank">link</a>)</li>
+                    <div class="col s12 m6 l6">
+                        <div class="card">
+                            <div class="card-content">
+                                <p>
+                                    <span class="card-title"><a target="_blank"
+                                            class="teal-text hoverline">Reviewer</a></span>
+                                </p>
+                                <ul>
+                                    <p>
+
+                                    <ul>
+                                        <li>The Journal of the Acoustical Society of America (<a
+                                            href="https://pubs.aip.org/asa/jasa" target="_blank">link</a>)</li>
+                                        <li>Applied Acoustics (<a href='https://www.sciencedirect.com/journal/applied-acoustics'
+                                            target="_blank">link</a>)</li>
+                                    </ul>
+                                    </p>
+                                </ul>
+                                
                             </div>
                         </div>
                     </div>
-
-                    <!-- Others -->
-                    <div class="card">
-                        <div class="card-content">
-                            <h4 class="brown-text light">Others</h4>
-                            <div class="row text-left">
-                                <li>Organizing committee member, Hong Kong Joint Symposium 2024 "Innovating and
-                                    Revitalizing Productivity in Building Services with 3S (Smart, Sustainability and
-                                    Safety) Solutions towards Carbon Neutrality”</li>
-
+                    
+                    <!-- others -->
+                    <div class="col s12 m6 l6">
+                        <div class="card">
+                            <div class="card-content">
+                                <p>
+                                    <span class="card-title"><a target="_blank"
+                                            class="teal-text hoverline">Others</a></span>
+                                </p>
+                                <ul>
+                                    <p>
+                                    <ul>
+                                        <li>Organizing committee member, Hong Kong Joint Symposium 2024 "Innovating and
+                                            Revitalizing Productivity in Building Services with 3S (Smart, Sustainability and
+                                            Safety) Solutions towards Carbon Neutrality”</li>
+                                    </ul>
+                                    </p>
+                                </ul>
                             </div>
                         </div>
                     </div>
+                    
+                
 
                     <!-- certifications -->
                     <!-- <div class="card">
@@ -532,7 +589,7 @@
             </div>
           </div>
         </div> -->
-
+                </div>
                 </div>
             </section>
 
