@@ -14,11 +14,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Lab Facilities"
+    url: /lab-facilities/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Service"
+    url: /service/
+
