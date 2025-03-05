@@ -74,7 +74,7 @@ redirect_from:
   
   <div class="team-member">
     <div class="team-member-image">
-      <img src="/images/liangfen-photo-square.jpg" alt="Postdoc Name">
+      <img src="/images/liangfen-photo.jpg" alt="Postdoc Name">
     </div>
     <div class="team-member-info">
       <h2>Postdoc Name</h2>
