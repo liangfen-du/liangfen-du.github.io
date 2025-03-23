@@ -21,7 +21,7 @@ redirect_from:
       align-items: flex-start;
     }
     .team-member-image {
-      flex: 0 0 200px;
+      flex: 0 0 150px;
       margin-right: 20px;
     }
     .team-member-image img {
@@ -74,15 +74,28 @@ redirect_from:
   
   <div class="team-member">
     <div class="team-member-image">
-      <img src="/images/liangfen-photo.jpg" alt="Postdoc Name">
+      <img src="/images/zhou_tong.jpeg" alt="ZHOU Tong">
     </div>
     <div class="team-member-info">
-      <h2>Postdoc Name</h2>
-      <h3>Postdoctoral Researcher</h3>
-      <p>Research focus and brief description of their work in the lab. Information about their background, expertise, and current projects.</p>
+      <h2>ZHOU Tong (周桐)</h2>
+      <h3>Postdoctoral Fellow</h3>
+      <p>Traffic Noise Reduction Enabling Natural Ventilation using Acoustic Metagratings</p>
+      <table>
+        <tr>
+          <td><strong>Ph.D</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>M.Sc/M.Eng</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>B.S/B.Eng</strong></td>
+          <td>Northwestern Polytechnical University, Xi'an, China</td>
+        </tr>
+      </table>
       <div class="team-member-contact">
-        <a href="mailto:postdoc@example.com"><i class="fas fa-envelope"></i> Email</a>
-        <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+        <a href="mailto:tong-beee.zhou@polyu.edu.hk"><i class="fas fa-envelope"></i> Email</a>
       </div>
     </div>
   </div>
@@ -92,15 +105,58 @@ redirect_from:
   
   <div class="team-member">
     <div class="team-member-image">
-      <img src="/images/phd1.jpg" alt="PhD Student Name">
+      <img src="/images/chan_pak_yeung.png" alt="Chan Pak Yeung (Brian)">
     </div>
     <div class="team-member-info">
-      <h2>PhD Student Name</h2>
+      <h2>Chan Pak Yeung (Brian)</h2>
       <h3>PhD Candidate</h3>
-      <p>Research topic and brief description of their doctoral work. Information about their academic background and research interests.</p>
+      <p>Development of High Performance Acoustic Windows Using Hybrid Control Techniques for Existing Building Retrofit</p>
+      <table>
+        <tr>
+          <td><strong>Ph.D Candidate</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>M.Sc</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>B.S</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+      </table>
       <div class="team-member-contact">
-        <a href="mailto:phd@example.com"><i class="fas fa-envelope"></i> Email</a>
-        <a href="https://github.com/" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+        <a href="mailto:22096252R@connect.polyu.hk"><i class="fas fa-envelope"></i> Email</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/ma_kai.jpeg" alt="MA Kai (马凯)">
+    </div>
+    <div class="team-member-info">
+      <h2>MA Kai (马凯)</h2>
+      <h3>PhD Candidate (visiting student)</h3>
+      <p>Nonlinear vibration and noise reduction characteristics of motor-centrifugal pump coupling system</p>
+      <p>Nonlinear torsional vibration characteristics of rotating shafting coupled with nonlinear energy sink</p>
+      <table>
+       <tr>
+          <td><strong>Ph.D Candidate</strong></td>
+          <td>Harbin Engineering University</td>
+        </tr>
+        <tr>
+          <td><strong>M.Sc</strong></td>
+          <td>Harbin Engineering University</td>
+        </tr>
+        <tr>
+          <td><strong>B.S</strong></td>
+          <td>Yantai university</td>
+        </tr>
+      </table>
+      <div class="team-member-contact">
+        <a href="mailto:22096252R@connect.polyu.hk"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://www.researchgate.net/profile/Kai-Ma-46/research" target="_blank"><i class="ai ai-researchgate"></i> ResearchGate</a>
       </div>
     </div>
   </div>
