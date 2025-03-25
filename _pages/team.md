@@ -164,7 +164,10 @@ redirect_from:
     </div>
   </div>
 
-
+  
+  <!-- Research Assistants -->
+  <h1>Research Assistants</h1>
+  
   <div class="team-member">
     <div class="team-member-image">
       <img src="/images/lam_wai_kit.jpeg" alt="LAM Wai Kit Adrian">
@@ -197,8 +200,6 @@ redirect_from:
       </div>
     </div>
   </div>
-  
-
 
 
 
