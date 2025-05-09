@@ -29,6 +29,8 @@ I also provide consultancy services in various acoustic-related areas, including
 
 Latest News
 ======
+<p>05/2025:Prof. Du was awarded a grant of HK$760,592 from the Environment and Conservation Fund (ECF) [<a href="https://www.polyu.edu.hk/beee/news-and-events/news/2025/20250402-beee-assistant-professor-secures-prestigious-environment-and-conservation-fund-grant/">link</a>].</p>
+
 <p>10/2024: Welcome Dr. Zhou Tong (周桐) to my team as a postdoc fellow!</p>
 
 <p>08/2024: Welcome Ma Kai (马凯) to my team as a visiting student!</p>
