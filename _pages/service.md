@@ -79,12 +79,33 @@ author_profile: true
   </div>
 
   <div class="service-section">
-    <h2 class="section-title">Conference Service</h2>
+    <h2 class="section-title">Organization Service</h2>
     <ul class="service-list">
       <li class="service-item">
         <div class="service-details">
           <ul>
-            <li>The 28th International Congress on Sound and Vibration (ICSV28), 2022</li>
+            <li>Organizing committee member of Hong Kong Joint Symposium 2024 “ Innovating and Revitalizing Productivity in Building Services with 3S (Smart, Sustainability and Safety) Solutions towards Carbon Neutrality”</li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="service-section">
+    <h2 class="section-title">Consultancy Service</h2>
+    <ul class="service-list">
+      <li class="service-item">
+        <div class="service-details">
+          <ul>
+            <li>Noise prediction on building facades for Forest Woods Condominium at  Lor Lew Lian, 11, Singapore 536493
+              <br> <!-- Optional: adds a line break before images -->
+              <img src="/images/forest_woods_1.png" alt="Description of image 1" style="max-width: 300px; margin-top: 10px; display: inline-block; margin-right: 10px; vertical-align: top;">
+              <img src="/images/forest_woods_2.png" alt="Description of image 2" style="max-width: 300px; margin-top: 10px; display: inline-block; vertical-align: top;">
+            </li>
+            <li>Industrial boundary noise assessment for Systems on Silicon Manufacturing Company Pte Ltd.</li>
+            <li>Classroom renovation for better speech intelligibility for Hwa Chong Institution</li>
+            <li>Auditorium renovation for better sound quality for Singapore Polytechnic</li>
+            <li>Acoustical design of offices for Merck Pte Ltd, Singapore</li>
           </ul>
         </div>
       </li>
