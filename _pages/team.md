@@ -79,7 +79,7 @@ redirect_from:
     <div class="team-member-info">
       <h2>ZHOU Tong (周桐)</h2>
       <h3>Postdoctoral Fellow</h3>
-      <p>Traffic Noise Reduction Enabling Natural Ventilation using Acoustic Metagratings</p>
+      <p>Research topics: Traffic Noise Reduction Enabling Natural Ventilation using Acoustic Metagratings</p>
       <table>
         <tr>
           <td><strong>Ph.D</strong></td>
@@ -110,7 +110,7 @@ redirect_from:
     <div class="team-member-info">
       <h2>Chan Pak Yeung (Brian)</h2>
       <h3>PhD Candidate</h3>
-      <p>Development of High Performance Acoustic Windows Using Hybrid Control Techniques for Existing Building Retrofit</p>
+      <p>Research topics: Development of High Performance Acoustic Windows Using Hybrid Control Techniques for Existing Building Retrofit</p>
       <table>
         <tr>
           <td><strong>Ph.D Candidate</strong></td>
@@ -191,7 +191,6 @@ redirect_from:
           <td>The Chinese University of Hong Kong (CUHK)</td>
         </tr>
       </table>
-      <p>Hobbies: I'm a sports enthusiast who loves staying active and having fun. You can usually find me swinging a racket on the badminton court or smashing it out at the table tennis table. Football is another passion of mine—I can't resist a good match! When I'm not playing sports, I'm diving into music and movies. Whether I'm discovering new tunes or binge-watching the latest flicks, I'm all about those good vibes!</p>
       <div class="team-member-contact">
         <a href="mailto:wai-kit-adrian.lam@connect.polyu.hk"><i class="fas fa-envelope"></i> Email</a>
         <a href="https://scholar.google.com/citations?user=3576az4AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
