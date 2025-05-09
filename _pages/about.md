@@ -29,15 +29,6 @@ I also provide consultancy services in various acoustic-related areas, including
 
 Latest News
 ======
-<div style="display: flex; align-items: center; margin-bottom: 20px; gap: 10px;">
-  <div style="flex: 1;">
-    11/2024: First team building, from left to right. GU Ningnan, ZHOU Tong, MA Kai, DU Haoran, DU Liangfen
-  </div>
-  <div style="flex: 0.6; text-align: left;">
-    <img src="/images/team-building-202411.jpg" alt="Team Building 2024" style="max-width: 70%; height: auto;">
-  </div>
-</div>
-
 <p>10/2024: Welcome Dr. Zhou Tong (周桐) to my team as a postdoc fellow!</p>
 
 <p>08/2024: Welcome Ma Kai (马凯) to my team as a visiting student!</p>
