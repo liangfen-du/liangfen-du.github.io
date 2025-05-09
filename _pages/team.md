@@ -1,0 +1,241 @@
+---
+layout: archive
+# title: "Team"
+permalink: /team/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+<div class="team-container">
+  <style>
+    .team-container {
+      margin-bottom: 30px;
+    }
+    .team-member {
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 40px;
+      align-items: flex-start;
+    }
+    .team-member-image {
+      flex: 0 0 150px;
+      margin-right: 20px;
+    }
+    .team-member-image img {
+      width: 100%;
+      aspect-ratio: 3/4;
+      border-radius: 50%;
+      border: 3px solid #f2f2f2;
+      object-fit: cover;
+    }
+    .team-member-info {
+      flex: 1;
+    }
+    .team-member-info h2 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      color: #333;
+    }
+    .team-member-info h3 {
+      margin-top: 0;
+      margin-bottom: 15px;
+      color: #666;
+      font-weight: normal;
+    }
+    .team-member-info p {
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+    .team-member-contact {
+      margin-top: 15px;
+    }
+    .team-member-contact a {
+      margin-right: 15px;
+      text-decoration: none;
+    }
+    @media (max-width: 768px) {
+      .team-member {
+        flex-direction: column;
+      }
+      .team-member-image {
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 150px;
+      }
+    }
+  </style>
+
+
+  <!-- Postdoctoral Researchers -->
+  <h1>Postdoctoral Researchers</h1>
+  
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/zhou_tong.jpeg" alt="ZHOU Tong">
+    </div>
+    <div class="team-member-info">
+      <h2>ZHOU Tong (周桐)</h2>
+      <h3>Postdoctoral Fellow</h3>
+      <p>Traffic Noise Reduction Enabling Natural Ventilation using Acoustic Metagratings</p>
+      <table>
+        <tr>
+          <td><strong>Ph.D</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>M.Sc/M.Eng</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>B.S/B.Eng</strong></td>
+          <td>Northwestern Polytechnical University, Xi'an, China</td>
+        </tr>
+      </table>
+      <div class="team-member-contact">
+        <a href="mailto:tong-beee.zhou@polyu.edu.hk"><i class="fas fa-envelope"></i> Email</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- PhD Students -->
+  <h1>PhD Students</h1>
+  
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/chan_pak_yeung.png" alt="Chan Pak Yeung (Brian)">
+    </div>
+    <div class="team-member-info">
+      <h2>Chan Pak Yeung (Brian)</h2>
+      <h3>PhD Candidate</h3>
+      <p>Development of High Performance Acoustic Windows Using Hybrid Control Techniques for Existing Building Retrofit</p>
+      <table>
+        <tr>
+          <td><strong>Ph.D Candidate</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>M.Sc</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>B.S</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+      </table>
+      <div class="team-member-contact">
+        <a href="mailto:22096252R@connect.polyu.hk"><i class="fas fa-envelope"></i> Email</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/ma_kai.jpeg" alt="MA Kai (马凯)">
+    </div>
+    <div class="team-member-info">
+      <h2>MA Kai (马凯)</h2>
+      <h3>PhD Candidate, Visiting Student (2024.08-now)</h3>
+      <p>Research topics:</p>
+      <ul>
+        <li>Nonlinear vibration and noise reduction characteristics of motor-centrifugal pump coupling system</li>
+        <li>Nonlinear torsional vibration characteristics of rotating shafting coupled with nonlinear energy sink</li>
+      </ul>
+      <table>
+       <tr>
+          <td><strong>Ph.D Candidate</strong></td>
+          <td>Harbin Engineering University</td>
+        </tr>
+        <tr>
+          <td><strong>M.Sc/M.Eng</strong></td>
+          <td>Harbin Engineering University</td>
+        </tr>
+        <tr>
+          <td><strong>B.S/B.Eng</strong></td>
+          <td>Yantai university</td>
+        </tr>
+      </table>
+      <div class="team-member-contact">
+        <a href="mailto:22096252R@connect.polyu.hk"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://www.researchgate.net/profile/Kai-Ma-46/research" target="_blank"><i class="ai ai-researchgate"></i> ResearchGate</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <!-- Research Assistants -->
+  <h1>Research Assistants</h1>
+  
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/lam_wai_kit.jpeg" alt="LAM Wai Kit Adrian">
+    </div>
+    <div class="team-member-info">
+      <h2>LAM Wai Kit Adrian</h2>
+      <h3>PhD Candidate, Research Assistant (2024.10~2024.12)</h3>
+      <p>Research topics:</p>
+      <ul>
+        <li>Analysis of the Acoustic Performance of Plenum Windows Installed with Sonic Crystals and Resonant Structures</li>
+        <li>Acoustic Performance Prediction for Plenum Windows Using Artificial Neural Networks</li>
+        <li>Investigation of Acoustic Perfect Absorption and Rainbow Trapping Effect Achieved Through Split-Ring Resonators</li>
+      </ul>
+      <table>
+        <tr>
+          <td><strong>Ph.D</strong></td>
+          <td>The Hong Kong Polytechnic University (PolyU)</td>
+        </tr>
+        <tr>
+          <td><strong>B.S/B.Eng</strong></td>
+          <td>The Chinese University of Hong Kong (CUHK)</td>
+        </tr>
+      </table>
+      <p>Hobbies: I'm a sports enthusiast who loves staying active and having fun. You can usually find me swinging a racket on the badminton court or smashing it out at the table tennis table. Football is another passion of mine—I can't resist a good match! When I'm not playing sports, I'm diving into music and movies. Whether I'm discovering new tunes or binge-watching the latest flicks, I'm all about those good vibes!</p>
+      <div class="team-member-contact">
+        <a href="mailto:wai-kit-adrian.lam@connect.polyu.hk"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://scholar.google.com/citations?user=3576az4AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+        <a href="https://www.researchgate.net/profile/Adrian-Lam-3" target="_blank"><i class="ai ai-researchgate"></i> ResearchGate</a>
+        <a href="https://www.linkedin.com/in/adrian-lam-waikit70" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Master Students -->
+  <h1>Master Students</h1>
+  
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/cartoon_figure.png" alt="Master Student Name">
+    </div>
+    <div class="team-member-info">
+      <h2>Master Student Name</h2>
+      <h3>Master's Student</h3>
+      <p>Research focus and brief description of their work. Information about their academic interests and goals.</p>
+      <div class="team-member-contact">
+        <a href="mailto:master@example.com"><i class="fas fa-envelope"></i> Email</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Alumni -->
+  <h1>Alumni</h1>
+  
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/cartoon_figure.png" alt="Alumni Name">
+    </div>
+    <div class="team-member-info">
+      <h2>Alumni Name</h2>
+      <h3>Former PhD Student (2018-2022)</h3>
+      <p>Brief description of their work in the lab and their current position or career path after graduation.</p>
+      <div class="team-member-contact">
+        <a href="mailto:alumni@example.com"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,50 @@
+.top-banner {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 10px 0;
+    border-bottom: 1px solid #eaeaea;
+    position: fixed;
+    top: 0;
+    z-index: 21;
+}
+
+.banner-container {
+    @include container;
+    @include clearfix;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 0 auto;
+    
+    @include breakpoint($large) {
+        width: $large;
+        margin: 0 auto;
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    @include breakpoint($x-large) {
+        max-width: $x-large;
+    }
+}
+
+.banner-logo {
+    height: 60px;
+    width: auto;
+}
+
+.banner-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+}
+
+/* Add padding to body to account for fixed banner and masthead */
+body {
+    padding-top: calc(80px + 60px); /* masthead height + banner height */
+} 
