@@ -201,42 +201,6 @@ redirect_from:
   </div>
 
 
- <!--
-  <!-- Master Students -->
-  <h1>Master Students</h1>
-  
-  <div class="team-member">
-    <div class="team-member-image">
-      <img src="/images/cartoon_figure.png" alt="Master Student Name">
-    </div>
-    <div class="team-member-info">
-      <h2>Master Student Name</h2>
-      <h3>Master's Student</h3>
-      <p>Research focus and brief description of their work. Information about their academic interests and goals.</p>
-      <div class="team-member-contact">
-        <a href="mailto:master@example.com"><i class="fas fa-envelope"></i> Email</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Alumni -->
-  <h1>Alumni</h1>
-  
-  <div class="team-member">
-    <div class="team-member-image">
-      <img src="/images/cartoon_figure.png" alt="Alumni Name">
-    </div>
-    <div class="team-member-info">
-      <h2>Alumni Name</h2>
-      <h3>Former PhD Student (2018-2022)</h3>
-      <p>Brief description of their work in the lab and their current position or career path after graduation.</p>
-      <div class="team-member-contact">
-        <a href="mailto:alumni@example.com"><i class="fas fa-envelope"></i> Email</a>
-        <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-      </div>
-    </div>
-  </div>
--->
   
 </div>
 
