@@ -57,16 +57,6 @@ Only some equipments are shown below.
   <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1;">
       <div class="facility-description">
-      A/C out cable  (for 2260, 2250 & 2270 connection)
-      </div>
-    </div>
-    <div style="flex: 0.6;">
-      <img src="/images/facilities/ac_cable.png" alt="A/C Cable" style="width: 60%; border-radius: 8px;">
-    </div>
-  </li>
-  <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
-    <div style="flex: 1;">
-      <div class="facility-description">
       B&K PULSE Type 3560-D Multichannel Portable Data Acquisition Unit (E1083906)
       <ul>
         <li>7 module slots</li>
