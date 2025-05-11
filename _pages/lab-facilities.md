@@ -31,7 +31,10 @@ author_profile: true
   }
 </style>
 
-Only some equipments are shown below.
+<div style="text-align: justify;">
+Our lab is fully equipped for conducting noise measurements. Our facilities include reverberation chambers specifically designed for testing the sound transmission loss of partitions and floors. We have three Brüel & Kjær (B&K) data acquisition modules with 3, 12, and 42 input channels, respectively. Our equipment also includes a B&K Impedance Tube (Type 4206), two beamforming systems with wheel arrays supporting 36 and 42 channels, and over 100 B&K microphones ranging in size from 1/8 inch to 1 inch. Additional instrumentation includes tapping machines (Type 3207), a mini shaker (Type 4810), an omnidirectional loudspeaker (B&K Type 4296), sound level meters, amplifiers, accelerometers, and more. Selected equipment photos are presented below.
+</div>
+
 <ul class="facility-list">
   <div class="facility-name">Sound Level Meter / Analyzer</div>
   <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
@@ -114,6 +117,29 @@ Only some equipments are shown below.
     </div>
   </li>
 
+  <div class="facility-name">Beamforming System</div>
+  <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1;">
+      <div class="facility-description">
+      W1558-W-004 Beamforming system sliced wheel array for 36 Channel (E1125117)
+      </div>
+    </div>
+    <div style="flex: 0.6;">
+      <img src="/images/facilities/w1558.png" alt="Beamform 36" style="width: 60%; border-radius: 8px;">
+    </div>
+  </li>
+  <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1;">
+      <div class="facility-description">
+      Beamforming system sliced wheel array for 42 Channel
+      </div>
+    </div>
+    <div style="flex: 0.6;">
+      <img src="/images/facilities/42channel_beamforming.png" alt="Beamform 42" style="width: 100%; border-radius: 8px;">
+    </div>
+  </li>
+  
+
   <div class="facility-name">Tapping Machine / Shaker</div>
   <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1;">
@@ -126,6 +152,50 @@ Only some equipments are shown below.
     </div>
     <div style="flex: 0.6;">
       <img src="/images/facilities/tapping_machine.png" alt="Impulse Hammer" style="width: 100%; border-radius: 8px;">
+    </div>
+  </li>
+  <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1;">
+      <div class="facility-description">
+      Brüel & Kjær Type 3207 Tapping Machine / Impact Sound Source
+      </div>
+    </div>
+    <div style="flex: 0.6;">
+      <img src="/images/facilities/bk3207.png" alt="BK 3207" style="width: 80%; border-radius: 8px;">
+    </div>
+  </li>
+
+  <div class="facility-name">OmniPower Sound Source</div>
+  <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1;">
+      <div class="facility-description">
+      OmniPower Sound Source | B&K Type 4296
+      </div>
+    </div>
+    <div style="flex: 0.6;">
+      <img src="/images/facilities/omnipower.png" alt="OmniPower" style="width: 100%; border-radius: 8px;">
+    </div>
+  </li>
+
+  <div class="facility-name">Others</div>
+  <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1;">
+      <div class="facility-description">
+      Brüel & Kjær Type 4206 Impedance Tube Kit
+      </div>
+    </div>
+    <div style="flex: 0.6;">
+      <img src="/images/facilities/bk4206.png" alt="BK 4206" style="width: 100%; border-radius: 8px;">
+    </div>
+  </li>
+  <li class="facility-item" style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1;">
+      <div class="facility-description">
+      Bruel & Kjaer Type 3548 Sound Intensity Probe Kit Set (with Mic 4181)
+      </div>
+    </div>
+    <div style="flex: 0.6;">
+      <img src="/images/facilities/bk3548.png" alt="BK 3548" style="width: 100%; border-radius: 8px;">
     </div>
   </li>
 
