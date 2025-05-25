@@ -41,7 +41,7 @@ author_profile: true
       <img src="/images/20250522-092348.jpeg" alt="Tongji 2025">
     </div>
     <div class="activity-text">
-      05/2025: Prof. Du was invited to visit the COMAC (商飞) Shanghai Aircraft Design & Research Institute.
+      05/2025: Prof. Du was invited to visit the COMAC Shanghai Aircraft Design & Research Institute.
     </div>
   </li>
   <li class="activity-item">
@@ -65,7 +65,7 @@ author_profile: true
       <img src="/images/20250522-092250.jpeg" alt="SJTU 2025">
     </div>
     <div class="activity-text">
-      05/2025: Prof. Du was invited by Prof. Yu Huang (黄煜) to visit the State Key Laboratory of Mechanical System and Vibration at Shanghai Jiaotong University.
+      05/2025: Prof. Du was invited by Prof. Yu Huang to visit the State Key Laboratory of Mechanical System and Vibration at Shanghai Jiaotong University.
     </div>
   </li>
   <li class="activity-item">
