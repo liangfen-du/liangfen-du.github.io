@@ -73,7 +73,7 @@ author_profile: true
       <img src="/images/20250522-092224.jpeg" alt="30th NVT">
     </div>
     <div class="activity-text">
-      05/2025: Prof. Du was invited to give a talk at "第 30 届全国噪声与振动技术大会".
+      05/2025: Prof. Du was invited to give a talk at "第 31 届全国振动与噪声技术应用学术会议".
     </div>
   </li>
 
