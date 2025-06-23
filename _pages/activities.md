@@ -38,6 +38,23 @@ author_profile: true
 <ul class="activity-list">
   <li class="activity-item">
     <div class="activity-image">
+      <img src="/images/20250623_21-00-54.jpeg" alt="Lyon 2025">
+    </div>
+    <div class="activity-text">
+      06/2025: As an LVA alumna, Prof. Du was invited to celebrate the 50th anniversary of the Laboratoire Vibrations Acoustique (LVA) in Lyon, France. <a href="https://lva50.sciencesconf.org/?lang=fr">Happy 50th birthday to LVA!</a>
+    </div>
+  </li>
+  <li class="activity-item">
+    <div class="activity-image">
+      <img src="/images/20250623205427_1312.jpeg" alt="UK 2025-01" style="display: inline-block; width: 100%; margin-right: 4%; vertical-align: top;">
+      <img src="/images/20250623_20-57-59.jpg" alt="UK 2025-02" style="display: inline-block; width: 100%; vertical-align: top;">
+    </div>
+    <div class="activity-text">
+      06/2025: Prof. Du was invited by <a href="https://profiles.ucl.ac.uk/66211-jian-kang">Prof. Jian Kang</a> to visit the Bartlett School of Environment, Energy and Resources at University College London.  Support for this visit from the PolyU Academy for Interdisciplinary Research (<a href="https://www.polyu.edu.hk/pair/">PAIR</a>) Collaboration Scheme is gratefully acknowledged.
+    </div>
+  </li>
+  <li class="activity-item">
+    <div class="activity-image">
       <img src="/images/20250522-092348.jpeg" alt="Tongji 2025">
     </div>
     <div class="activity-text">
