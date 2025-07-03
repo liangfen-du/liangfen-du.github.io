@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="text-justify">
 <p>
-Dr Liangfen DU joined the Department of Building Environment and Energy Engineering (BEEE) as an Assistant Professor in April 2024. She currently serves as the group leader of Acoustics Laboratory in the BEEE Department and leads Urban Noise Mitigation Group at the Research Institute of Sustainable Urban Development (RISUD).
+Dr Liangfen DU joined the Department of Building Environment and Energy Engineering (BEEE) as an Assistant Professor in April 2024. She currently serves as the group leader of Acoustics Laboratory in the BEEE Department and leads Urban Noise Mitigation Group at the Research Institute for Sustainable Urban Development (RISUD).
 </p>
   
 <p>
