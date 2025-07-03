@@ -38,5 +38,5 @@ Latest News
 <p>08/2024: Welcome Ma Kai (马凯) to my team as a visiting student!</p>
 
 <div class="text-justify">
-<p>08/2024: I was invited by the Hong Kong Institute of Acoustics (HKIOA) and the Australian Institute of Building (AIB) to give a talk on "Noise Reduction Enabling Natural Ventilation Technologies".[<a href="https://hkioa.org/detail_photo.php?solevar=e8063bf1b823b6a7">link</a>] </p>
+<p>08/2024: I was invited by the Hong Kong Institute of Acoustics (HKIOA) and the Australian Institute of Building (AIB) to give a talk on "Noise Reduction Enabling Natural Ventilation Technologies" [<a href="https://hkioa.org/detail_photo.php?solevar=e8063bf1b823b6a7">link</a>]. </p>
 </div>
