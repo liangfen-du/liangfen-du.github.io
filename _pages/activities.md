@@ -55,7 +55,15 @@ author_profile: true
   </li>
   <li class="activity-item">
     <div class="activity-image">
-      <img src="/images/20250522-092348.jpeg" alt="Tongji 2025">
+      <img src="/images/2025-07-03_125959_217.jpg" alt="SCUT 2025">
+    </div>
+    <div class="activity-text">
+      05/2025： Prof. Du was invited by Prof. Yuezhe Zhao to visit the School of Architecture at South China University of Technology.
+    </div>
+  </li>
+  <li class="activity-item">
+    <div class="activity-image">
+      <img src="/images/20250522-092348.jpeg" alt="COMAC 2025">
     </div>
     <div class="activity-text">
       05/2025: Prof. Du was invited to visit the COMAC Shanghai Aircraft Design & Research Institute.
