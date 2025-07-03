@@ -9,8 +9,13 @@ redirect_from:
 
 <div class="text-justify">
 <p>
-Dr Liangfen DU joined the Department of Building Environment and Energy Engineering (BEEE) as an Assistant Professor in April 2024. She obtained her BEng in Environmental Engineering and MSc in Acoustics from the Northwestern Polytechnical University in China, and received her second Master's degree and a PhD in Acoustics from the Institut National des Sciences Appliquées de Lyon (INSA Lyon) in France. 
+Dr Liangfen DU joined the Department of Building Environment and Energy Engineering (BEEE) as an Assistant Professor in April 2024. She currently serves as the group leader of Acoustics Laboratory in the BEEE Department and leads Urban Noise Mitigation Group at the Research Institute of Sustainable Urban Development (RISUD).
 </p>
+  
+<p>
+She obtained her BEng in Environmental Engineering and MSc in Acoustics from the Northwestern Polytechnical University in China, and received her second Master's degree and a PhD in Acoustics from the Institut National des Sciences Appliquées de Lyon (INSA Lyon) in France. 
+</p>
+  
 <p>
 After graduation, she worked as an Acoustic Consultant in the industry for various industrial projects involving noise impact assessment, acoustic design, building acoustics and more. She later returned to academia as a research fellow at the National University of Singapore (NUS) from 2017 to 2021 and at the Nanyang Technological University (NTU) from 2021 to 2024, respectively. Dr Du's research interests encompass noise reduction technologies enabling natural ventilation, acoustic metasurfaces, sound prediction, and environmental noise control.
 </p>
