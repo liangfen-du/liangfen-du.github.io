@@ -34,7 +34,7 @@ I also provide consultancy services in various acoustic-related areas, including
 
 Latest News
 ======
-<p>06/2025: We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants  [<a href="https://jobs.polyu.edu.hk/job_detail.php?job=250626003">link</a>]. If you are interested, please contact Dr. Du by email. </p>
+<p>06/2025: <strong>We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants</strong> [<a href="https://jobs.polyu.edu.hk/job_detail.php?job=250626003">link</a>]. <strong>If you are interested, please contact Dr. Du by email.</strong> </p>
 
 <p>04/2025: Prof. Du was awarded a grant of HK$760,592 from the Environment and Conservation Fund (ECF) [<a href="https://www.polyu.edu.hk/beee/news-and-events/news/2025/20250402-beee-assistant-professor-secures-prestigious-environment-and-conservation-fund-grant/">link</a>].</p>
 
