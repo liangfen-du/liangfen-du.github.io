@@ -133,11 +133,69 @@ redirect_from:
 
   <div class="team-member">
     <div class="team-member-image">
+      <img src="/images/wang_liangzhou.png" alt="Wang Liangzhou">
+    </div>
+    <div class="team-member-info">
+      <h2>Wang Liangzhou (王梁洲)</h2>
+      <h3>PhD Candidate</h3>
+      <p>Research topics: Programmable Acoustic Metasurface, Sound Propagation Through Plant</p>
+      <table>
+        <tr>
+          <td><strong>Ph.D Candidate</strong></td>
+          <td>The Hong Kong Polytechnic University</td>
+        </tr>
+        <tr>
+          <td><strong>M.Sc</strong></td>
+          <td>National University of Singapore</td>
+        </tr>
+        <tr>
+          <td><strong>B.S</strong></td>
+          <td>Beijing Jiaotong University</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="team-member">
+    <div class="team-member-image">
+      <img src="/images/wang_ziyu.png" alt="Wang Ziyu">
+    </div>
+    <div class="team-member-info">
+      <h2>Wang Ziyu (王梓玉)</h2>
+      <h3>PhD Candidate</h3>
+      <p>Research topics: small room acoustics; vehicle acoustics; sound field simulation; acoustic modes property; spatial hearing perception</p>
+      <table>
+        <tr>
+          <td><strong>Ph.D Candidate</strong></td>
+          <td>South China University of Technology</td>
+        </tr>
+        <tr>
+          <td><strong>B.S</strong></td>
+          <td>Ocean University of China</td>
+        </tr>
+      </table>
+      <div class="team-member-contact">
+        <a href="mailto:Wzy18197181423@163.com"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://www.researchgate.net/profile/Ziyu-Wang-127" target="_blank"><i class="ai ai-researchgate"></i> ResearchGate</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <!-- Research Assistants -->
+  <!-- <h1>Research Assistants</h1> -->
+  
+  
+  <!-- Alumni -->
+  <h1>Alumni</h1>
+
+  <div class="team-member">
+    <div class="team-member-image">
       <img src="/images/ma_kai.jpeg" alt="MA Kai (马凯)">
     </div>
     <div class="team-member-info">
       <h2>MA Kai (马凯)</h2>
-      <h3>PhD Candidate, Visiting Student (2024.08-now)</h3>
+      <h3>PhD Candidate, Visiting Student (2024.08-2025.08)</h3>
       <p>Research topics:</p>
       <ul>
         <li>Nonlinear vibration and noise reduction characteristics of motor-centrifugal pump coupling system</li>
@@ -164,10 +222,6 @@ redirect_from:
     </div>
   </div>
 
-  
-  <!-- Research Assistants -->
-  <h1>Research Assistants</h1>
-  
   <div class="team-member">
     <div class="team-member-image">
       <img src="/images/lam_wai_kit.jpeg" alt="LAM Wai Kit Adrian">
@@ -199,8 +253,6 @@ redirect_from:
       </div>
     </div>
   </div>
-
-
   
 </div>
 
