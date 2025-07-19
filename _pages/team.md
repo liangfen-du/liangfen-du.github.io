@@ -162,7 +162,7 @@ redirect_from:
     </div>
     <div class="team-member-info">
       <h2>Wang Ziyu (王梓玉)</h2>
-      <h3>PhD Candidate</h3>
+      <h3>PhD Candidate, visiting student </h3>
       <p>Research topics: small room acoustics; vehicle acoustics; sound field simulation; acoustic modes property; spatial hearing perception</p>
       <table>
         <tr>
