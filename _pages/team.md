@@ -195,7 +195,7 @@ redirect_from:
     </div>
     <div class="team-member-info">
       <h2>MA Kai (马凯)</h2>
-      <h3>PhD Candidate, Visiting Student (2024.08-2025.08)</h3>
+      <h3>PhD, Visiting Student (2024.08-2025.08)</h3>
       <p>Research topics:</p>
       <ul>
         <li>Nonlinear vibration and noise reduction characteristics of motor-centrifugal pump coupling system</li>
@@ -203,7 +203,7 @@ redirect_from:
       </ul>
       <table>
        <tr>
-          <td><strong>Ph.D Candidate</strong></td>
+          <td><strong>Ph.D</strong></td>
           <td>Harbin Engineering University</td>
         </tr>
         <tr>
