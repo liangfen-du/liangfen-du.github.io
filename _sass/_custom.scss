@@ -44,6 +44,8 @@
     flex-grow: 1;
 }
 
+
+
 /* Add padding to body to account for fixed banner and masthead */
 body {
     padding-top: calc(80px + 60px); /* masthead height + banner height */
@@ -150,5 +152,31 @@ body {
     margin-right: 0;
     margin-bottom: 20px;
     width: 150px;
+  }
+  
+  /* 移动端sidebar logo优化 */
+  .school-logo {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5px !important;
+    width: 100%;
+  }
+  
+  .school-logo img {
+    flex: 1;
+    width: auto !important;
+    height: 60px !important;
+    margin-bottom: 5px !important;
+    object-fit: contain;
+  }
+}
+
+/* 更小屏幕的进一步优化 */
+@media (max-width: 480px) {
+  .school-logo img {
+    height: 50px !important;
   }
 }
