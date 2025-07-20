@@ -76,3 +76,79 @@ body {
   flex: 1;
   padding-top: 10px;
 }
+
+/* Publications page styles */
+.publications {
+  list-style-type: decimal;
+  margin-left: 5px;
+}
+
+.publications li {
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.journal-name {
+  font-style: italic;
+}
+
+.author-name {
+  font-weight: bold;
+}
+
+/* Team page styles */
+.team-container {
+  margin-bottom: 30px;
+}
+.team-member {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 40px;
+  align-items: flex-start;
+}
+.team-member-image {
+  flex: 0 0 150px;
+  margin-right: 20px;
+}
+.team-member-image img {
+  width: 100%;
+  aspect-ratio: 3/4;
+  border-radius: 50%;
+  border: 3px solid #f2f2f2;
+  object-fit: cover;
+}
+.team-member-info {
+  flex: 1;
+}
+.team-member-info h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #333;
+}
+.team-member-info h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #666;
+  font-weight: normal;
+}
+.team-member-info p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+.team-member-contact {
+  margin-top: 15px;
+}
+.team-member-contact a {
+  margin-right: 15px;
+  text-decoration: none;
+}
+@media (max-width: 768px) {
+  .team-member {
+    flex-direction: column;
+  }
+  .team-member-image {
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 150px;
+  }
+}
