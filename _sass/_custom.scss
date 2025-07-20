@@ -48,3 +48,31 @@
 body {
     padding-top: calc(80px + 60px); /* masthead height + banner height */
 } 
+
+.activity-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.activity-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.activity-image {
+  flex: 0 0 40%;
+}
+
+.activity-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.activity-text {
+  flex: 1;
+  padding-top: 10px;
+}
