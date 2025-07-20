@@ -17,3 +17,5 @@ __pycache__
 *.npy
 /vendor/
 .sass-cache
+_site/
+.bundle/
