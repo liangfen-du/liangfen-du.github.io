@@ -1,5 +1,11 @@
 - date: "07/2025"
   images:
+    - src: "/images/2025-07-25_070607.jpg"
+      alt: "PolyU 2025"
+  description: "Prof. Jian Kang visited our Acoustics Laboratory and delivered the FCE Distinguished Lecture. We sincerely appreciate the support provided by the Faculty of Construction and Environment (FCE), the Department of Building Environment and Energy Engineering (BEEE), and the Research Institute for Sustainable Urban Development (RISUD) for making his visit possible."
+
+- date: "07/2025"
+  images:
     - src: "/images/20250719-081534.jpg"
       alt: "ICSV 2025"
   description: 'Prof. Du attended the 31the International Congress on Sound and Vibration (ICSV31) at Incheon, Korea and gave an oral presentation titled "Multi-frequency acoustic wave control using acoustic meta-gratings".'
