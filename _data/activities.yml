@@ -1,5 +1,11 @@
 - date: "08/2025"
   images:
+    - src: "/images/image_20250820.jpg"
+      alt: "Team Reunion 2025"
+  description: "Kicking off the 2025–26 academic year with our first team reunion"
+
+- date: "08/2025"
+  images:
     - src: "/images/2025-08-06_214507.jpg"
       alt: "PolyU-2 2025"
   description: Prof. Yong Li from the Institute of Acoustics at Tongji University visited our Acoustics Lab, where we engaged in an in-depth discussion on potential future collaborations. We sincerely appreciate Prof. Li’s valuable suggestions and insights on our ongoing research.
