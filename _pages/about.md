@@ -36,11 +36,15 @@ Latest News
 ======
 <p>06/2025: <strong>We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants</strong> [<a href="https://jobs.polyu.edu.hk/job_detail.php?job=250626003">link</a>]. <strong>If you are interested, please contact Dr. Du by email.</strong> </p>
 
+<p>08/2025: Welcome Mr. Wang Liangzhou (王梁洲) to our team as a PhD candidate!</p>
+
+<p>08/2025: Welcome Ms. Wang Ziyu (王梓玉) to our team as a Research Assistant!</p>
+
 <p>04/2025: Prof. Du was awarded a grant of HK$760,592 from the Environment and Conservation Fund (ECF) [<a href="https://www.polyu.edu.hk/beee/news-and-events/news/2025/20250402-beee-assistant-professor-secures-prestigious-environment-and-conservation-fund-grant/">link</a>].</p>
 
-<p>10/2024: Welcome Dr. Zhou Tong (周桐) to my team as a postdoc fellow!</p>
+<p>10/2024: Welcome Dr. Zhou Tong (周桐) to our team as a postdoc fellow!</p>
 
-<p>08/2024: Welcome Ma Kai (马凯) to my team as a visiting student!</p>
+<p>08/2024: Welcome Ma Kai (马凯) to our team as a visiting student!</p>
 
 <div class="text-justify">
 <p>08/2024: I was invited by the Hong Kong Institute of Acoustics (HKIOA) and the Australian Institute of Building (AIB) to give a talk on "Noise Reduction Enabling Natural Ventilation Technologies" [<a href="https://hkioa.org/detail_photo.php?solevar=e8063bf1b823b6a7">link</a>]. </p>
