@@ -34,7 +34,7 @@ I also provide consultancy services in various acoustic-related areas, including
 
 Latest News
 ======
-<p>01/2026: Welcome Ms. Zhang Yiyi (张依依) to our team as a PhD candidate. She will be formally enrolled in May and is currently undertaking a study trip with the NVH team at Tesla.</p>
+<p>01/2026: Welcome Ms. Zhang Yiyi (张依依) to our team as a PhD candidate. She will be formally enrolled in May and is currently undertaking a study trip with the NVH team at Tesla, Shanghai.</p>
 
 <p>01/2026: Welcome Dr. Dong Wenkai (董文凯) to our team as a postdoc fellow!</p>
 
