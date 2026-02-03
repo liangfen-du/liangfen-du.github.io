@@ -1,4 +1,17 @@
 postdocs:
+  - name: "Dong Wenkai (董文凯)"
+    image: "/images/dong_wenkai.png"
+    title: "Postdoctoral Fellow"
+    research: "Wave propagation in fluids and structures and their interaction: sound transmission and absorption; Analytical and numerical calculation of flow-induced vibration and noise; Design and implementation of acoustic metamaterials."
+    education:
+      - degree: "Ph.D"
+        university: "Huazhong University of Science and Technology, School of Naval Architecture and Ocean Engineering"
+      - degree: "B.S/B.Eng"
+        university: "Huazhong University of Science and Technology, School of Naval Architecture and Ocean Engineering"
+    contact:
+      - type: "researchgate"
+        url: "https://www.researchgate.net/profile/Wenkai-Dong-3"
+
   - name: "ZHOU Tong (周桐)"
     image: "/images/zhou_tong.jpeg"
     title: "Postdoctoral Fellow"
@@ -15,6 +28,18 @@ postdocs:
         url: "mailto:tong-beee.zhou@polyu.edu.hk"
 
 phd_students:
+  - name: "ZHANG Yiyi"
+    image: "/images/zhang_yiyi.png"
+    title: "PhD Candidate"
+    research: "Noise control in Electric Vehicle, Sound Propagation Through Plant"
+    education:
+      - degree: "Ph.D Candidate"
+        university: "The Hong Kong Polytechnic University"
+      - degree: "M.Sc/M.Eng"
+        university: "National University of Singapore"
+      - degree: "B.S/B.Eng"
+        university: "South China University of Technology"
+
   - name: "Chan Pak Yeung (Brian)"
     image: "/images/chan_pak_yeung.png"
     title: "PhD Candidate"
