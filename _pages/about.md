@@ -38,7 +38,7 @@ Latest News
 
 <p>01/2026: Welcome Dr. Dong Wenkai (董文凯) to our team as a postdoc fellow!</p>
 
-<p>06/2025: We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants [<a href="https://jobs.polyu.edu.hk/job_detail.php?job=250626003">link</a>]. If you are interested, please contact Dr. Du by email. </p>
+<p>06/2025: We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants. If you are interested, please contact Dr. Du by email. </p>
 
 <p>08/2025: Welcome Mr. Wang Liangzhou (王梁洲) to our team as a PhD candidate!</p>
 
