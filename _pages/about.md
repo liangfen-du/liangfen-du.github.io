@@ -34,7 +34,11 @@ I also provide consultancy services in various acoustic-related areas, including
 
 Latest News
 ======
-<p>06/2025: <strong>We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants</strong> [<a href="https://jobs.polyu.edu.hk/job_detail.php?job=250626003">link</a>]. <strong>If you are interested, please contact Dr. Du by email.</strong> </p>
+<p>01/2026: Welcome Ms. Zhang Yiyi (张依依) to our team as a PhD candidate. She will be formally enrolled in May and is currently undertaking a study trip with the NVH team at Tesla.</p>
+
+<p>01/2026: Welcome Dr. Dong Wenkai (董文凯) to our team as a postdoc fellow!</p>
+
+<p>06/2025: We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants [<a href="https://jobs.polyu.edu.hk/job_detail.php?job=250626003">link</a>]. If you are interested, please contact Dr. Du by email. </p>
 
 <p>08/2025: Welcome Mr. Wang Liangzhou (王梁洲) to our team as a PhD candidate!</p>
 
