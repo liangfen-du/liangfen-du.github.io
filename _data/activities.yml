@@ -1,3 +1,15 @@
+- date: "01/2026"
+  images:
+    - src: "/images/2026-01-Beijing-Visit.jpg"
+      alt: "Beijing Academic Visit 2026"
+  description: "Prof. Du and Prof. Eddie Siu-Kit Lau (National University of Singapore) visited the Architectural Acoustics Laboratory at Tsinghua University; the Institute of Acoustics, Chinese Academy of Sciences (IACAS); the School of Physical Science and Engineering at Beijing Jiaotong University; the School of Astronautics at Beihang University; and the start-up company WUWENAI. Fruitful discussions were held with colleagues at all institutions."
+
+- date: "01/2026"
+  images:
+    - src: "/images/2026-01-Tesla-Study-Visit.jpg"
+      alt: "Tesla Study Visit 2026"
+  description: "Ms. Zhang Yiyi commenced her study visit with the NVH team at Tesla Shanghai, laying the groundwork for potential future collaboration with Tesla."
+
 - date: "11/2025"
   images:
     - src: "/images/2025-11-CKJ-Composite.jpg"
