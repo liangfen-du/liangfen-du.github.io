@@ -1,5 +1,11 @@
 - date: "02/2026"
   images:
+    - src: "/images/2026-02-HKIOA-AirBubble.jpg"
+      alt: "HKIOA Air Bubble Visit 2026"
+  description: 'Technical Visit to Air Bubble Enclosure at 嘉立創總部大廈地基項目, organized by Hong Kong Institute of Acoustics (<a href="https://hkioa.org/">HKIOA</a>).'
+
+- date: "02/2026"
+  images:
     - src: "/images/group_meeting_2026_02.jpg"
       alt: "Group Meeting 2026-02"
   description: "We held our first formal group meeting and gathering of 2026. Team members participated in a highly productive discussion and shared updates on their recent work. Yiyi joined the meeting online and presented her study experience at Tesla. It is great to work with such an excellent team."
