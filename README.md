@@ -87,3 +87,29 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+# Core Code Architecture
+
+This repository is a static site built with **Jekyll**, designed for academic portfolios. The architecture separates content (data) from presentation (templates) to ensure maintainability.
+
+## Key Components
+
+*   **Static Generation**: Uses [Jekyll](https://jekyllrb.com/) to compile Markdown and Liquid templates into static HTML.
+*   **Data-Driven Content**: Content such as publications, team members, and projects are stored as structured YAML data in `_data/` (e.g., [`_data/publications.yml`](_data/publications.yml), [`_data/team.yml`](_data/team.yml)). Liquid templates iterate over this data to render pages dynamically.
+*   **Theme & Styling**: Derived from the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
+    *   **SCSS**: Styles are modularized in `_sass/` and compiled to `assets/css/main.css`.
+    *   **Grid System**: Uses [Susy](https://www.oddbird.net/susy/) for flexible grid layouts.
+*   **Asset Pipeline**:
+    *   **JavaScript**: Source files in `assets/js/` are concatenated and minified via `npm run build:js` (using `uglify-js`) into a single `main.min.js` file for performance.
+*   **Configuration**: Site-wide settings (metadata, navigation, plugins) are centralized in [`_config.yml`](_config.yml).
+
+## Directory Structure
+
+*   [`_config.yml`](_config.yml): Main configuration file.
+*   [`_data/`](_data/): Structured data files (the "database" of the site).
+*   [`_includes/`](_includes/): Reusable HTML partials (components).
+*   [`_layouts/`](_layouts/): Page templates (wrappers).
+*   [`_pages/`](_pages/): Source markdown files for main pages.
+*   [`_sass/`](_sass/): SCSS source files.
+*   [`assets/`](assets/): Compiled CSS, JS, images, and fonts.
+
