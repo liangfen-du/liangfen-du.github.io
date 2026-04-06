@@ -12,20 +12,6 @@ postdocs:
       - type: "researchgate"
         url: "https://www.researchgate.net/profile/Wenkai-Dong-3"
 
-  - name: "ZHOU Tong (周桐)"
-    image: "/images/zhou_tong.jpeg"
-    title: "Postdoctoral Fellow"
-    research: "Traffic Noise Reduction Enabling Natural Ventilation using Acoustic Metagratings"
-    education:
-      - degree: "Ph.D"
-        university: "The Hong Kong Polytechnic University"
-      - degree: "M.Sc/M.Eng"
-        university: "The Hong Kong Polytechnic University"
-      - degree: "B.S/B.Eng"
-        university: "Northwestern Polytechnical University, Xi'an, China"
-    contact:
-      - type: "email"
-        url: "mailto:tong-beee.zhou@polyu.edu.hk"
 
 phd_students:
   - name: "ZHANG Yiyi"
@@ -68,8 +54,10 @@ phd_students:
         university: "Beijing Jiaotong University"
 
 alumni:
+  - name: "Zhou Tong (周桐)"
+    title: "Postdoctoral Fellow (2024.10 ~ 2026.03). Dr. Zhou will begin his new journey at the University of Nottingham Ningbo China. Congratulations to him, and we wish him all the best and continued success in his future career."
   - name: "Wang Ziyu (王梓玉)"
-    title: "Ph.D., The South China University of Technology, visiting student (2025.08~2026.02)"
+    title: "Ph.D., The South China University of Technology, Research Assistant (2025.08~2026.02)"
   - name: "Ma Kai (马凯)"
     title: "Ph.D., Harbin Engineering University, visiting student (2024.08~2025.08)"
   - name: "LAM Wai Kit Adrian"
