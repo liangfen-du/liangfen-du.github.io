@@ -33,6 +33,7 @@ After graduation, she worked as an Acoustic Consultant in the industry for vario
 
 <div class="news-scroll" style="max-height: 400px; overflow-y: auto; padding-right: 10px;">
   <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;"><strong>06/2026:</strong> Our paper, “Directional Control of Noise Transmission via Ultracompact Acoustic Metagrating Barriers,” received the Best Paper Award from the committee of the 35th International Conference on Adaptive Structures and Technologies. Congratulations to Mr. Liangzhou Wang and Dr. Wenkai Dong!</li>
     <li style="margin-bottom: 10px;"><strong>01/2026:</strong> Welcome Ms. Zhang Yiyi (张依依) to our team as a PhD candidate. She will be formally enrolled in May and is currently undertaking a study trip with the NVH team at Tesla, Shanghai.</li>
     <li style="margin-bottom: 10px;"><strong>01/2026:</strong> Welcome Dr. Dong Wenkai (董文凯) to our team as a postdoc fellow!</li>
     <li style="margin-bottom: 10px;"><strong>06/2025:</strong> We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants. If you are interested, please contact Dr. Du by email.</li>
