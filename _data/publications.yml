@@ -1,186 +1,187 @@
-- authors: "Kai Ma, Jingtao Du, Hongyu Lian, Xingchao Jia, Yang Liu, and Liangfen Du"
+- authors: "Ma, K., Du, J., Lian, H., Jia, X., Liu, Y., Du, L."
   title: "Modeling and nonlinear dynamic behavior analysis of a rotational self-powered dynamic absorber for crankshaft torsional vibration"
   journal: "Applied Mathematical Modelling"
   year: 2026
   volume: "162"
   pages: "117180"
 
-- authors: "Liangfen Du, Junfei Tai, Xiaoyu Yang, and Zheng Fan"
+- authors: "Du, L., Tai, J., Yang, X., Fan, Z."
   title: "Ultracompact programmable acoustic grating for broadband and wide-angle focusing"
   journal: "Journal of Sound and Vibration"
   year: 2026
   volume: "642"
   pages: "119968"
 
-- authors: "Hai-Tao Jia, Xiao-Lei Tang, Tian-Xue Ma, Liangfen Du, and Yue-Sheng Wang"
+- authors: "Jia, H.-T., Tang, X.-L., Ma, T.-X., Du, L., Wang, Y.-S."
   title: "Majorana-like bound states in phononic crystal topological cavities for energy harvesting of flexural waves"
   journal: "Smart Materials and Structures"
   year: 2026
   volume: "35(5)"
   pages: "055012"
 
-- authors: "Zichao Guo, Liangfen Du, Zirui Yang, Kexin Zeng, Ziping Lei, Zhonggang Wang, Zhendong Li, and Zheng Fan"
-  title: "Switchable Bidirectional Sound Absorption Via Exceptional Point Modulation in Acoustic Metastructures with Interleaved Resonator Coupling."
-  journal: "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
-  year: 2024
+- authors: "Guo, Z., Du, L., Yang, Z., Zeng, K., Lei, Z., Wang, Z., Li, Z., Fan, Z."
+  title: "Switchable bidirectional sound absorption via exceptional point modulation in acoustic metastructures with interleaved resonator coupling."
+  journal: "Advanced Science"
+  year: 2025
+  volume: "12(44)"
   pages: "e08951"
 
-- authors: "Tong Zhou, Liangfen Du"
+- authors: "Zhou, T., Du, L."
   title: "Multi-frequency acoustic wave control using acoustic meta-gratings."
   journal: "The 31th International Congress on Sound and Vibration"
   year: 2025
   location: "Incheon, Korea, July 5-11"
 
-- authors: "Xiangyu Wang, Liangfen Du, Zhenbang Liu, Mingyang Li, Yiwei Weng, Zhixin Liu, Yi Wei Daniel Tay, Zheng Fan, Teck Neng Wong, Ming Jen Tan"
+- authors: "Wang, X., Du, L., Liu, Z., Li, M., Weng, Y., Liu, Z., Tay, Y. W. D., Fan, Z., Wong, T. N., Tan, M. J."
   title: "3D cementitious composites printing with pretreated recycled crumb rubber: mechanical and acoustic insulation properties."
   journal: "Virtual and Physical Prototyping"
   year: 2024
   volume: "19(1)"
   pages: "e2399787"
 
-- authors: "Johanna Kay Ann Tan, Liangfen Du, Siu-Kit Lau"
+- authors: "Tan, J. K. A., Du, L., Lau, S.-K."
   title: "Optimization of single-channel active noise control performance in a plenum window using the surface impedance approach."
   journal: "The Journal of the Acoustical Society of America"
   year: 2024
   volume: "155(2)"
-  pages: "1570-1582-4287"
+  pages: "1570-1582"
 
-- authors: "Liangfen Du, Zheng Fan"
+- authors: "Du, L., Fan, Z."
   title: "Anomalous refraction of acoustic waves using double layered acoustic gratings."
   journal: "The 52th Inter-Noise"
   year: 2023
   location: "Tokyo, Japan, August 20-23"
 
-- authors: "Liangfen Du, Abhishek Saini, Zeqing Sun, Jian Chen, Zheng Fan"
+- authors: "Du, L., Saini, A., Sun, Z., Chen, J., Fan, Z."
   title: "Experimental validation of acoustic focusing by a double layered acoustic grating."
   journal: "The 29th International Congress on Sound and Vibration"
   year: 2023
   location: "Prague, the Czech republic, July 09-13"
 
-- authors: "Liangfen Du, Abhishek Saini, Zeqing Sun, Jian Chen, Zheng Fan"
+- authors: "Du, L., Saini, A., Sun, Z., Chen, J., Fan, Z."
   title: "Acoustic focusing by a double layered acoustic grating."
   journal: "Journal of Sound and Vibration"
   year: 2023
   volume: "561"
   pages: "117830"
 
-- authors: "Alexandru Crivoi, Liangfen Du, Zheng Fan"
+- authors: "Crivoi, A., Du, L., Fan, Z."
   title: "Ventilated acoustic meta-barrier based on layered Helmholtz resonators."
   journal: "Applied Acoustics"
   year: 2023
   volume: "205"
   pages: "109263"
 
-- authors: "Liangfen Du, Zheng Fan"
+- authors: "Du, L., Fan, Z."
   title: "Acoustic focusing of an acoustic metasurface based on surface coupling approach."
   journal: "The 28th International Congress on Sound and Vibration"
   year: 2022
   location: "Singapore, July 24-28"
 
-- authors: "Jian Chen, Zeqing Sun, Liangfen Du, Zheng Fan"
+- authors: "Chen, J., Sun, Z., Du, L., Fan, Z."
   title: "Enhanced acoustic imaging with evanescent amplification."
   journal: "The 28th International Congress on Sound and Vibration"
   year: 2022
   location: "Singapore, July 24-28"
 
-- authors: "Liangfen Du, Siu-Kit Lau, Siew Eang Lee"
+- authors: "Du, L., Lau, S.-K., Lee, S. E."
   title: "Prediction of noise reduction of ventilation window by surface impedance approach."
   journal: "Applied Acoustics"
   year: 2021
   volume: "175"
   pages: "107851"
 
-- authors: "Liangfen Du, Siu-Kit Lau, Siew Eang Lee, Martin Konrad Danzer"
+- authors: "Du, L., Lau, S.-K., Lee, S. E., Danzer, M. K."
   title: "Experimental study on noise reduction and ventilation performances of sound-proofed ventilation window."
   journal: "Building and Environment"
   year: 2020
   volume: "181"
   pages: "107105"
 
-- authors: "Goran Pavić, Liangfen Du"
+- authors: "Pavić, G., Du, L."
   title: "Modelling of a closed acoustical space by the boundary reconstruction approach."
   journal: "Forum Acusticum 2020 (FA 2020)"
   year: 2020
   location: "December 7-11"
 
-- authors: "Goran Pavić, Liangfen Du"
+- authors: "Pavić, G., Du, L."
   title: "Experimental identification of surface acoustic impedance."
   journal: "Biennial ISMA conference on Noise and Vibration Engineering (ISMA 2020)"
   year: 2020
   location: "KU Leuven, Belgium, September 7-9"
 
-- authors: "Liangfen Du, Goran Pavić, Siu-Kit Lau, Siew Eang Lee"
+- authors: "Du, L., Pavić, G., Lau, S.-K., Lee, S. E."
   title: "Virtual experimental study on sound prediction in multiple connected spaces by surface coupling approach."
   journal: "The 49th Inter-Noise"
   year: 2020
   location: "Soeul, Korea, August 23-26"
 
-- authors: "Liangfen Du, Siu-Kit Lau, Siew Eang Lee"
+- authors: "Du, L., Lau, S.-K., Lee, S. E."
   title: "Experimental study on sound insulation of ventilation partitions."
   journal: "Journal of Acoustics"
   year: 2019
   volume: "1"
   pages: "1-13"
 
-- authors: "Liangfen Du, Siu-Kit Lau, Siew Eang Lee"
+- authors: "Du, L., Lau, S.-K., Lee, S. E."
   title: "Experimental study on sound transmission loss of plenum windows."
   journal: "The Journal of the Acoustical Society of America"
   year: 2019
   volume: "146(6)"
   pages: "EL489-EL495"
 
-- authors: "Liangfen Du, Siu-Kit Lau, Siew Eang Lee"
+- authors: "Du, L., Lau, S.-K., Lee, S. E."
   title: "Sound insulation of ventilation partitions with different Configurations."
   journal: "The 48th Inter-Noise"
   year: 2019
   location: "Madrid, Spain, June 16-19"
 
-- authors: "Liangfen Du, Goran Pavić"
+- authors: "Du, L., Pavić, G."
   title: "Modelling of multiply connected sound spaces by the surface coupling approach."
   journal: "The Journal of the Acoustical Society of America"
   year: 2019
   volume: "146(6)"
   pages: "4273-4287"
 
-- authors: "Goran Pavić, Liangfen Du"
+- authors: "Pavić, G., Du, L."
   title: "Coupling of sound spaces by plane surface harmonics and its application to sound source characterization."
   journal: "Journal of Sound and Vibration"
   year: 2019
   volume: "440"
   pages: "1-22"
 
-- authors: "Liangfen Du, Goran Pavić"
+- authors: "Du, L., Pavić, G."
   title: "Experimental characterization of air-borne sound sources via surface coupling."
   journal: "Applied Acoustics"
   year: 2018
   volume: "134"
   pages: "97-109"
 
-- authors: "Goran Pavić, Liangfen Du"
+- authors: "Pavić, G., Du, L."
   title: "Coupling of sound spaces by the surface impedance approach."
   journal: "The 8th Congress of the Alps Adria Acoustics Association"
   year: 2018
   location: "Zagreb, Croatia, September 20-21"
 
-- authors: "Goran Pavić, Liangfen Du"
+- authors: "Pavić, G., Du, L."
   title: "Modelling of multi-connected acoustical spaces by the surface impedance approach."
   journal: "The 45th Inter-Noise"
   year: 2016
   location: "Hamburg, Germany, August 21-24"
 
-- authors: "Liangfen Du, Goran Pavić"
+- authors: "Du, L., Pavić, G."
   title: "Experimental demonstration of sound prediction by source characterization."
   journal: "The 44th Inter-Noise"
   year: 2015
   location: "San Francisco, USA, August 9-12"
 
-- authors: "Liangfen Du, Goran Pavić"
+- authors: "Du, L., Pavić, G."
   title: "Characterisation of sound sources by plane surface harmonics."
   journal: "Proceeding of Noise and Vibration – Emerging technologies (NOVEM2015)"
   year: 2015
   location: "Dubrovnik, Croatia, April 13-15"
 
-- authors: "Liangfen Du, Goran Pavić"
+- authors: "Du, L., Pavić, G."
   title: "Acoustical source-receiver interfacing using the patch impedance approach."
   journal: "Conference of French Acoustic"
   year: 2014

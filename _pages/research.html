@@ -17,16 +17,17 @@ author_profile: true
   <a href="{{site.author.googlescholar}}" target="_blank">(Google Scholar)</a>
 </h2>
 
-<ol class="publications">
+<ol class="publications apa-publications">
   {% for pub in site.data.publications %}
     <li>
-      {%- assign authors = pub.authors | split: ',' -%}{%- for author in authors -%}{%- assign stripped_author = author | strip -%}{%- if stripped_author == 'Liangfen Du' -%}<span class="author-name">{{ stripped_author }}</span>{%- else -%}{{ stripped_author }}{%- endif -%}{%- unless forloop.last -%}, {% endunless %}{%- endfor -%}.
-
-      {{ pub.title }} 
-      <span class="journal-name">{{ pub.journal }}</span>, {{ pub.year }}
-      {% if pub.volume %}, {{ pub.volume }}{% endif %}
-      {% if pub.pages %}: {{ pub.pages }}{% endif %}.
-      {% if pub.location %} {{ pub.location }}.{% endif %}
+      {%- assign title_last_char = pub.title | slice: -1, 1 -%}
+      {{ pub.authors }} ({{ pub.year }}). {{ pub.title }}{% if title_last_char != '.' %}.{% endif %}
+      {% if pub.volume %}
+        {%- assign volume_parts = pub.volume | split: '(' -%}
+        <span class="journal-name">{{ pub.journal }}, {{ volume_parts[0] }}</span>{% if volume_parts.size > 1 %}({{ volume_parts[1] | replace: ')', '' }}){% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.
+      {% else %}
+        <span class="journal-name">{{ pub.journal }}</span>.{% if pub.location %} {{ pub.location }}.{% endif %}
+      {% endif %}
       {% if pub.note %} {{ pub.note }}{% endif %}
     </li>
   {% endfor %}
