@@ -1,3 +1,15 @@
+- date: "07/2026"
+  images:
+    - src: "/images/2026-07-PIERS-Suzhou.jpg"
+      alt: "PIERS 2026 Suzhou"
+  description: "Prof. Du attended the 48th Photonics and Electromagnetics Research Symposium (PIERS 2026) in Suzhou, China."
+
+- date: "07/2026"
+  images:
+    - src: "/images/2026-07-HUST-Lab-Tour.jpg"
+      alt: "HUST Lab Tour 2026"
+  description: "Mr. Wang Liangzhou and Dr. Dong Wenkai gave a lab tour to third-year undergraduate students from Huazhong University of Science and Technology (HUST)."
+
 - date: "06/2026"
   images:
     - src: "/images/2026-06-Best-Paper-Award-1.jpg"
