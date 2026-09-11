@@ -1,3 +1,9 @@
+- date: "08/2026"
+  images:
+    - src: "/images/2026-08-InterNoise-Adelaide.jpg"
+      alt: "Inter-Noise 2026 Adelaide"
+  description: 'Mr. Liangzhou Wang delivered an oral presentation entitled “Programmable Double-Layer Acoustic Panel for Acoustic Focusing” at the 55th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2026) in Adelaide, Australia, at the end of the first year of his PhD study.'
+
 - date: "07/2026"
   images:
     - src: "/images/2026-07-PIERS-Suzhou.jpg"

@@ -61,6 +61,22 @@ author_profile: true
 
 <div class="service-container">
   <div class="service-section">
+    <h2 class="section-title">Editorial Board</h2>
+    <ul class="service-list">
+      <li class="service-item">
+        <div class="service-details">
+          <ul>
+            <li>Editorial Board Member,
+              <a href="https://journals.sagepub.com/editorial-board/bua" target="_blank">Building Acoustics</a>
+              (SAGE)
+            </li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="service-section">
     <h2 class="section-title">Journal Reviewer</h2>
     <ul class="service-list">
       <li class="service-item">
@@ -71,6 +87,18 @@ author_profile: true
             </li>
             <li>Applied Acoustics 
               <a href="https://www.sciencedirect.com/journal/applied-acoustics" target="_blank">(Applied Acoustics)</a>
+            </li>
+            <li>International Journal of Extreme Manufacturing
+              <a href="https://iopscience.iop.org/journal/2631-7990" target="_blank">(IJEM)</a>
+            </li>
+            <li>Building and Environment
+              <a href="https://www.sciencedirect.com/journal/building-and-environment" target="_blank">(Building and Environment)</a>
+            </li>
+            <li>International Journal of Mechanical Sciences
+              <a href="https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences" target="_blank">(IJMS)</a>
+            </li>
+            <li>HKIE Transactions
+              <a href="https://www.tandfonline.com/journals/thie20" target="_blank">(HKIE Transactions)</a>
             </li>
           </ul>
         </div>
