@@ -179,7 +179,18 @@ body {
     margin-bottom: 20px;
     width: 150px;
   }
-  
+
+  /* 移动端活动列表改为上下堆叠，避免图片和文字列被压得过窄 */
+  .activity-item {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 15px;
+  }
+  .activity-image {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
   /* 移动端sidebar logo优化 */
   .school-logo {
     display: flex;

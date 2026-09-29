@@ -1,3 +1,9 @@
+- date: "09/2026"
+  images:
+    - src: "/images/2026-09-SJTU-Visit.jpg"
+      alt: "Prof. Weikang Jiang visiting the Acoustics Laboratory"
+  description: "Prof. Weikang Jiang of Shanghai Jiao Tong University visited our Acoustics Laboratory. We thank him for his suggestions on the laboratory’s future development."
+
 - date: "08/2026"
   images:
     - src: "/images/2026-08-InterNoise-Adelaide.jpg"
@@ -102,7 +108,7 @@
   images:
     - src: "/images/20250623205427_1312.jpeg"
       alt: "UK 2025-01"
-      style: "display: inline-block; width: 100%; margin-right: 4%; vertical-align: top;"
+      style: "display: inline-block; width: 100%; vertical-align: top;"
     - src: "/images/20250623_20-57-59.jpg"
       alt: "UK 2025-02"
       style: "display: inline-block; width: 100%; vertical-align: top;"
