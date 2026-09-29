@@ -10,7 +10,7 @@ author_profile: true
   <li class="activity-item">
     <div class="activity-image">
       {% for image in activity.images %}
-        <img src="{{ image.src }}" alt="{{ image.alt }}" style="{{ image.style }}">
+        <img src="{{ image.src }}" alt="{{ image.alt }}">
       {% endfor %}
     </div>
     <div class="activity-text">

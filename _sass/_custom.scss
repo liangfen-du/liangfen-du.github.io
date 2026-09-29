@@ -74,6 +74,11 @@ body {
   border-radius: 8px;
 }
 
+/* 多图活动条目中相邻图片的间距（原为 YAML 内联样式，迁移至此） */
+.activity-image img + img {
+  margin-top: 2%;
+}
+
 .activity-text {
   flex: 1;
   padding-top: 10px;

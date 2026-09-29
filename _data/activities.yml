@@ -26,10 +26,8 @@
   images:
     - src: "/images/2026-06-Best-Paper-Award-1.jpg"
       alt: "Best Paper Award Group Photo"
-      style: "display: inline-block; width: 100%; margin-bottom: 2%; vertical-align: top;"
     - src: "/images/2026-06-Best-Paper-Award-2.jpg"
       alt: "Best Paper Award Certificate"
-      style: "display: inline-block; width: 100%; vertical-align: top;"
   description: "Our paper, “Directional Control of Noise Transmission via Ultracompact Acoustic Metagrating Barriers,” received the Best Paper Award from the committee of the 35th International Conference on Adaptive Structures and Technologies. Congratulations to Mr. Liangzhou Wang and Dr. Wenkai Dong!"
 
 - date: "03/2026"
@@ -108,10 +106,8 @@
   images:
     - src: "/images/20250623205427_1312.jpeg"
       alt: "UK 2025-01"
-      style: "display: inline-block; width: 100%; vertical-align: top;"
     - src: "/images/20250623_20-57-59.jpg"
       alt: "UK 2025-02"
-      style: "display: inline-block; width: 100%; vertical-align: top;"
   description: 'Prof. Du was invited by <a href="https://profiles.ucl.ac.uk/66211-jian-kang">Prof. Jian Kang</a> to visit the Bartlett School of Environment, Energy and Resources at University College London.  Support for this visit from the PolyU Academy for Interdisciplinary Research (<a href="https://www.polyu.edu.hk/pair/">PAIR</a>) Collaboration Scheme is gratefully acknowledged.'
 
 - date: "05/2025"
