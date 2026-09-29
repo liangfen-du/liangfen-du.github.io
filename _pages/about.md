@@ -23,7 +23,7 @@ After graduation, she worked as an Acoustic Consultant in the industry for vario
 
 ## 🔥 Pin to Top
 
-<div class="notice--info" style="font-size: 1rem !important;">
+<div class="notice--info">
   <p><strong>PhD Positions in Acoustics with Scholarship:</strong> We are currently offering <strong>one or two fully funded PhD positions</strong> in Acoustics.</p>
   <p>Applicants should hold a Bachelor's or Master's degree in <em>Acoustics, Mechanical Engineering</em>, or a related engineering discipline, and should meet the PhD admission requirements of The Hong Kong Polytechnic University (PolyU) [<a href="https://www.polyu.edu.hk/study/pg/research-postgraduate/2023/admission-requirements-rpg">link</a>].</p>
   <p>Interested applicants should submit the following documents to Dr. Liangfen Du at <code>liangfen.du@polyu.edu.hk</code>:</p>
@@ -38,18 +38,18 @@ After graduation, she worked as an Acoustic Consultant in the industry for vario
 
 ## 📰 Latest News
 
-<div class="news-scroll" style="max-height: 400px; overflow-y: auto; padding-right: 10px;">
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;"><strong>06/2026:</strong> Our project, “Ultracompact programmable acoustic grating for broadband noise insulation with airflow passage”, has been funded by the Hong Kong Research Grants Council (RGC) under the Early Career Scheme (ECS). We currently have two fully funded PhD openings associated with this project.</li>
-    <li style="margin-bottom: 10px;"><strong>06/2026:</strong> Our paper, “Directional Control of Noise Transmission via Ultracompact Acoustic Metagrating Barriers,” received the Best Paper Award from the committee of the 35th International Conference on Adaptive Structures and Technologies. Congratulations to Mr. Liangzhou Wang and Dr. Wenkai Dong!</li>
-    <li style="margin-bottom: 10px;"><strong>01/2026:</strong> Welcome Ms. Zhang Yiyi (张依依) to our team as a PhD candidate. She will be formally enrolled in May and is currently undertaking a study trip with the NVH team at Tesla, Shanghai.</li>
-    <li style="margin-bottom: 10px;"><strong>01/2026:</strong> Welcome Dr. Dong Wenkai (董文凯) to our team as a postdoc fellow!</li>
-    <li style="margin-bottom: 10px;"><strong>06/2025:</strong> We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants. If you are interested, please contact Dr. Du by email.</li>
-    <li style="margin-bottom: 10px;"><strong>08/2025:</strong> Welcome Mr. Wang Liangzhou (王梁洲) to our team as a PhD candidate!</li>
-    <li style="margin-bottom: 10px;"><strong>08/2025:</strong> Welcome Ms. Wang Ziyu (王梓玉) to our team as a Research Assistant!</li>
-    <li style="margin-bottom: 10px;"><strong>04/2025:</strong> Prof. Du was awarded a grant from the Environment and Conservation Fund (ECF) [<a href="https://www.polyu.edu.hk/beee/news-and-events/news/2025/20250402-beee-assistant-professor-secures-prestigious-environment-and-conservation-fund-grant/">link</a>].</li>
-    <li style="margin-bottom: 10px;"><strong>10/2024:</strong> Welcome Dr. Zhou Tong (周桐) to our team as a postdoc fellow!</li>
-    <li style="margin-bottom: 10px;"><strong>08/2024:</strong> Welcome Ma Kai (马凯) to our team as a visiting student!</li>
-    <li style="margin-bottom: 10px;"><strong>08/2024:</strong> I was invited by the Hong Kong Institute of Acoustics (HKIOA) and the Australian Institute of Building (AIB) to give a talk on "Noise Reduction Enabling Natural Ventilation Technologies" [<a href="https://hkioa.org/detail_photo.php?solevar=e8063bf1b823b6a7">link</a>].</li>
+<div class="news-scroll">
+  <ul>
+    <li><strong>06/2026:</strong> Our project, “Ultracompact programmable acoustic grating for broadband noise insulation with airflow passage”, has been funded by the Hong Kong Research Grants Council (RGC) under the Early Career Scheme (ECS). We currently have two fully funded PhD openings associated with this project.</li>
+    <li><strong>06/2026:</strong> Our paper, “Directional Control of Noise Transmission via Ultracompact Acoustic Metagrating Barriers,” received the Best Paper Award from the committee of the 35th International Conference on Adaptive Structures and Technologies. Congratulations to Mr. Liangzhou Wang and Dr. Wenkai Dong!</li>
+    <li><strong>01/2026:</strong> Welcome Ms. Zhang Yiyi (张依依) to our team as a PhD candidate. She will be formally enrolled in May and is currently undertaking a study trip with the NVH team at Tesla, Shanghai.</li>
+    <li><strong>01/2026:</strong> Welcome Dr. Dong Wenkai (董文凯) to our team as a postdoc fellow!</li>
+    <li><strong>06/2025:</strong> We currently have several open positions for Ph.D students, Postdoc Fellows, Research Associates, and Research Assistants. If you are interested, please contact Dr. Du by email.</li>
+    <li><strong>08/2025:</strong> Welcome Mr. Wang Liangzhou (王梁洲) to our team as a PhD candidate!</li>
+    <li><strong>08/2025:</strong> Welcome Ms. Wang Ziyu (王梓玉) to our team as a Research Assistant!</li>
+    <li><strong>04/2025:</strong> Prof. Du was awarded a grant from the Environment and Conservation Fund (ECF) [<a href="https://www.polyu.edu.hk/beee/news-and-events/news/2025/20250402-beee-assistant-professor-secures-prestigious-environment-and-conservation-fund-grant/">link</a>].</li>
+    <li><strong>10/2024:</strong> Welcome Dr. Zhou Tong (周桐) to our team as a postdoc fellow!</li>
+    <li><strong>08/2024:</strong> Welcome Ma Kai (马凯) to our team as a visiting student!</li>
+    <li><strong>08/2024:</strong> I was invited by the Hong Kong Institute of Acoustics (HKIOA) and the Australian Institute of Building (AIB) to give a talk on "Noise Reduction Enabling Natural Ventilation Technologies" [<a href="https://hkioa.org/detail_photo.php?solevar=e8063bf1b823b6a7">link</a>].</li>
   </ul>
 </div>

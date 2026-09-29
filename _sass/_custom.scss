@@ -79,6 +79,99 @@ body {
   margin-top: 2%;
 }
 
+/* Lab Facilities 页面（原为页面内 <style> 块与内联样式，迁移至此） */
+.lab-overview {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.lab-overview img {
+  width: 50%;
+  border-radius: 8px;
+}
+
+.lab-intro {
+  text-align: justify;
+}
+
+.facility-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.facility-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.facility-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.facility-description {
+  text-align: justify;
+  margin-bottom: 15px;
+}
+
+.facility-text {
+  flex: 1;
+}
+
+.facility-img {
+  flex: 0.6;
+}
+
+.facility-img img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* 设备照片宽度变体：默认 100%，小图 60%，中图 80% */
+.facility-img.img-60 img {
+  width: 60%;
+}
+
+.facility-img.img-80 img {
+  width: 80%;
+}
+
+/* About 页面新闻滚动列表（原为内联样式，迁移至此） */
+.notice--info {
+  font-size: 1rem !important;
+}
+
+.news-scroll {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+.news-scroll ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.news-scroll li {
+  margin-bottom: 10px;
+}
+
+/* Service 页面咨询项目配图（原为内联样式，迁移至此） */
+.consultancy-figures img {
+  max-width: 300px;
+  margin-top: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.consultancy-figures img + img {
+  margin-left: 10px;
+}
+
 .activity-text {
   flex: 1;
   padding-top: 10px;
@@ -193,6 +286,24 @@ body {
   }
   .activity-image {
     flex: 0 0 auto;
+    width: 100%;
+  }
+
+  /* 移动端设备条目同样上下堆叠 */
+  .facility-item {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .facility-text,
+  .facility-img {
+    flex: 0 0 auto;
+  }
+  .facility-img {
+    width: 100%;
+  }
+  .facility-img img,
+  .facility-img.img-60 img,
+  .facility-img.img-80 img {
     width: 100%;
   }
 

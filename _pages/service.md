@@ -127,8 +127,10 @@ author_profile: true
           <ul>
             <li>Noise prediction on building facades for Forest Woods Condominium at  Lor Lew Lian, 11, Singapore 536493
               <br> <!-- Optional: adds a line break before images -->
-              <img src="/images/forest_woods_1.png" alt="Description of image 1" style="max-width: 300px; margin-top: 10px; display: inline-block; margin-right: 10px; vertical-align: top;">
-              <img src="/images/forest_woods_2.png" alt="Description of image 2" style="max-width: 300px; margin-top: 10px; display: inline-block; vertical-align: top;">
+              <div class="consultancy-figures">
+                <img src="/images/forest_woods_1.png" alt="Forest Woods noise prediction result 1">
+                <img src="/images/forest_woods_2.png" alt="Forest Woods noise prediction result 2">
+              </div>
             </li>
             <li>Industrial boundary noise assessment for Systems on Silicon Manufacturing Company Pte Ltd.</li>
             <li>Classroom renovation for better speech intelligibility for Hwa Chong Institution</li>
